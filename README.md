@@ -31,7 +31,9 @@ Controller module hardware:
 - Power supply unit (LiPo battery and charging circuit)
 
 
-![Sensor Circuit](images/sensor circuit.png)
+![Sensor Circuit](images/sensor_circuit.jpg)
+
+![Controller Circuit](images/controller_circuit.jpg)
 
 
   
