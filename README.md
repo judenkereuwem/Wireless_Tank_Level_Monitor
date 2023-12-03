@@ -9,7 +9,7 @@ This system consists of two main parts: the Sensor unit and the Controller unit.
 
 The sensor unit streams data (water level – over Bluetooth) to the controller for appropriate water pumping decisions to be carried out.
 
-REQUIREMENTS
+# REQUIREMENTS
 
 Software:
 - Arduino IDE
@@ -31,12 +31,12 @@ Controller module hardware:
 - Power supply unit (LiPo battery and charging circuit)
 
 
+# Sensor module circuit
 ![Sensor Circuit](images/sensor_circuit.jpg)
-Sensor module circuit
-.
 
+# Controller module circuit
 ![Controller Circuit](images/controller_circuit.jpg)
-Sensor module circuit
+
 
 
   
