@@ -34,5 +34,4 @@ Controller module hardware:
 ![Sensor Circuit](images/sensor circuit.png)
 
 
-![Controller Circuit](images/controller circuit.png)
   
